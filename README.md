@@ -1,4 +1,5 @@
 ## Hi there 👋
+PATHFiNDER-DG is a freshman at Bilkent University. Still getting the hang of things...
 
 <!--
 **PATHFiNDER-DG/PATHFiNDER-DG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
